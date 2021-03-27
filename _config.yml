@@ -57,7 +57,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Daily Challenges
-    url:               /challenges/
+    url:               /example/
   - title:             Documentation
     url:               /docs/
 
